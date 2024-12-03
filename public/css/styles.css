@@ -1,0 +1,82 @@
+.cormorant-garamond-light {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.cormorant-garamond-regular {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cormorant-garamond-medium {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.cormorant-garamond-semibold {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.cormorant-garamond-bold {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.cormorant-garamond-light-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.cormorant-garamond-regular-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.cormorant-garamond-medium-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-style: italic;
+}
+/* Website CSS */
+.d-flex {
+    display: flex !important;
+}
+.title {
+    font-size: 40px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.b-img {
+    border-right: #dee2e6 1px solid;
+    margin-right: 10px;
+}
+.post-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+.imgButton {
+    background-color: #ffe08f;
+    border: solid 1px #ffe08f;
+    padding: 5px;
+    border-radius: 5px;
+}
+.hidden {
+    display: none;
+}
+.postContent {
+    display: flex;
+    flex-direction: column;
+
+}
